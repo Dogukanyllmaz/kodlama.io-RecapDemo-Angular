@@ -1,4 +1,4 @@
-![GitHub Repo stars](https://img.shields.io/github/stars/Dogukanyllmaz/FinalProject?color=yellow)
+![GitHub Repo stars](https://img.shields.io/github/stars/Dogukanyllmaz/FinalProject---Frontend?color=yellow)
 <h1 align="center">Yazılım Geliştirici Yetiştirme Kampı (C# + ANGULAR)</h1>
 
 <p align="center">
