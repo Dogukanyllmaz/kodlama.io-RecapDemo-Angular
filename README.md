@@ -18,13 +18,42 @@
 
 #### Technologies
 
-- [Entity Framework](https://reactjs.org/)
-- [FluentValidation](https://www.apollographql.com/docs/react/get-started/)
-- [Autofac](https://autofaccn.readthedocs.io/en/latest/getting-started/index.html#)
+- [Angular](https://cli.angular.io)
+- [Bootstrap](https://getbootstrap.com)
+- [Node.js](https://nodejs.org/en/)
+- [JQuery](https://jquery.com)
 
 ---
 
 ## How To Use
+
+```bash
+# Clone the repository
+$ git clone https://github.com/Dogukanyllmaz/FinalProject---Frontend
+
+# Go to file
+$ cd FinalProject---Frontend.git
+
+# Install dependencies
+$ npm install
+```
+---
+
+## License
+
+MIT License
+
+Copyright (c) 2021 Doğukan Yılmaz
+
+---
+
+## Author Info
+
+- 💻 [Linkedin](https://www.linkedin.com/in/hüseyin-doğukan-yılmaz-75a1531ab/)
+
+- 🎫 [Email](mailto:dogu_codem@hotmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+
+---
 
 # Northwind
 
