@@ -16,8 +16,7 @@
 
 ## Description
 
-- This project is a Products-Management project. It was developed thanks to the education of Engin Demiroğ.
-- 
+- This project is a Products-Management project. It was developed thanks to the education of Engin Demiroğ. We created our frontend project, which we need to create for our backend project, using Angular-cli. It is written in accordance with the SOLID principle. Since we write Middleware in the backend, it is easier for us to deal with errors in the frontend.The transactions of the tokens coming from the Jwt classes that we wrote backend are done(localStorage).
 - Go to [Back-end.](https://github.com/Dogukanyllmaz/FinalProject)
 
 #### Technologies
