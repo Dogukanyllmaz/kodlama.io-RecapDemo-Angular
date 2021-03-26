@@ -16,7 +16,9 @@
 
 ## Description
 
-- Go to Back-end codes --> [FinalProject](https://github.com/Dogukanyllmaz/FinalProject)
+- This project is a Products-Management project. It was developed thanks to the education of Engin Demiroğ.
+- 
+- Go to [Back-end.](https://github.com/Dogukanyllmaz/FinalProject)
 
 #### Technologies
 
@@ -38,6 +40,9 @@ $ cd FinalProject---Frontend.git
 
 # Install dependencies
 $ npm install
+
+# Start project
+$ ng serve -o
 ```
 
 ### Northwind
