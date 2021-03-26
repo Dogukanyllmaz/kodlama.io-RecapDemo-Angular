@@ -15,7 +15,7 @@
 
 ## Description
 
-- Go to Back-end codes -->[FinalProject](https://github.com/Dogukanyllmaz/FinalProject)
+- Go to Back-end codes --> [FinalProject](https://github.com/Dogukanyllmaz/FinalProject)
 
 #### Technologies
 
