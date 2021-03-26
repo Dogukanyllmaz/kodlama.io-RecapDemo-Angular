@@ -1,3 +1,31 @@
+![GitHub Repo stars](https://img.shields.io/github/stars/Dogukanyllmaz/FinalProject?color=yellow)
+<h1 align="center">Yazılım Geliştirici Yetiştirme Kampı (C# + ANGULAR)</h1>
+
+<p align="center">
+    <img width="100%" src="./src/kamp.jpg">
+</p>
+
+### Table of Contents
+- [Description](#description)
+- [How To Use](#how-to-use)
+- [License](https://github.com/Dogukanyllmaz/FinalProject/blob/master/LICENSE)
+- [Author Info](#author-info)
+
+---
+
+## Description
+
+
+#### Technologies
+
+- [Entity Framework](https://reactjs.org/)
+- [FluentValidation](https://www.apollographql.com/docs/react/get-started/)
+- [Autofac](https://autofaccn.readthedocs.io/en/latest/getting-started/index.html#)
+
+---
+
+## How To Use
+
 # Northwind
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.3.
