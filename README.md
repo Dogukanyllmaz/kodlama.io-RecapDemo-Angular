@@ -82,7 +82,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## License
 
-MIT License
+[MIT License](https://github.com/Dogukanyllmaz/FinalProject---Frontend/blob/main/LICENSE)
 
 Copyright (c) 2021 Doğukan Yılmaz
 
